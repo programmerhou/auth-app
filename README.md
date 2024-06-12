@@ -1,14 +1,21 @@
 # AuthApp
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 18.0.3.
+
 Before starting this application, you need install node.js and npm.
-Install Angular CLI or use command npm install -g @angular/cli。
+
+Install Angular CLI or use command npm install -g @angular/cli
+
 Creating the new angular project with command ng new your-project-name
+
 cd your-project-name
+
 ng generate component your-component-name
 
 Tips: We use some of Angular module for configuration.
+
 If your application lack of them, use command npm install which-module-u-want.
+
 For example, npm install @angular/material @angular/cdk
 
 ## Development server
