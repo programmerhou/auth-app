@@ -41,3 +41,15 @@ Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To u
 ## Further help
 
 To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.dev/tools/cli) page.
+
+## About Database
+
+Install mysqlworkbench or use command to etablish your-database.
+
+defaults: port:3306 user:root passward:123456 name:auth_db tables:use
+
+## Running server
+
+cd ./backend
+
+node server.js
