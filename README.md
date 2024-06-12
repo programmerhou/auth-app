@@ -44,7 +44,7 @@ To get more help on the Angular CLI use `ng help` or go check out the [Angular C
 
 ## About Database
 
-Install mysqlworkbench or use command to etablish your-database.
+Install [mysql](https://dev.mysql.com/downloads/file/?id=526927) or use [mysqlworkbench](https://www.mysql.com/jp/products/workbench/) or use command to etablish your-database.
 
 defaults: port:3306 user:root passward:123456 name:auth_db tables:use
 
